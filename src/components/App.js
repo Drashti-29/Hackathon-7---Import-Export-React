@@ -14,4 +14,3 @@ import SubmitButton from "./SubmitButton";
   )
 }
 export default App;
-
